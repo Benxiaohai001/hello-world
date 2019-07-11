@@ -3,4 +3,4 @@
 
 phpinfo();
 
-我是你爸爸
+I Love Lenovo.
